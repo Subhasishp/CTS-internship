@@ -1,6 +1,6 @@
 /*Length and breadth of a rectangle are 5 and 7 respectively.
 Program to calculate the area and perimeter of the rectangle.*/
-class Rectangle2
+class RectangleAreaPerimeter
 {
 	public static void main(String args[])
 	{
