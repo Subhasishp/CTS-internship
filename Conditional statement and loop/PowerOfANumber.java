@@ -1,5 +1,5 @@
 //program to print the power of 7 raised to 5.
-class Power 
+class PowerOfANumber 
 {
 	public static void main(String ss[])
 	{
