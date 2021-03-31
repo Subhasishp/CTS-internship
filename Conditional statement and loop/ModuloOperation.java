@@ -1,5 +1,5 @@
 /*program to add 8 to the number 2345 and then divide it by 3*/
-class ModuloOp
+class ModuloOperation
 {
 	public static void main(String args[])
 	{
