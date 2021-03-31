@@ -1,5 +1,5 @@
 /*program to calculate the perimeter of a triangle having sides of length 2,3 and 5 units.*/
-class Perimeter
+class PerimeterOfTriangle
 {
 	public static void main(String args[])
 	{
