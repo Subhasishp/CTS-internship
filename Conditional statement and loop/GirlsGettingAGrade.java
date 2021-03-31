@@ -1,5 +1,5 @@
 //program to calculate the total number of girls getting grade 'A'.
-class Grade
+class GirlsGettingAGrade
 {
 	public static void main(String ss[])
 	{
