@@ -1,6 +1,6 @@
 //Reverse a number
 import java.util.*;
-class Reverse
+class ReverseANumber
 {
 	public static void main(String ss[])
 	{
