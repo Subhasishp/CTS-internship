@@ -1,6 +1,6 @@
 //Calculate sum of first and second last digit in 5 digit number
 import java.util.*;
-class SumOfFirstAndSecondLast
+class SumOfFirstAndSecondLastDigit
 {
 	public static void main(String args[])
 	{
