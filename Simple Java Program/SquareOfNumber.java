@@ -1,5 +1,5 @@
 import java.text.*;
-class Square
+class SquareOfNumber
 {
 	public static void main(String ss[])
 	{
