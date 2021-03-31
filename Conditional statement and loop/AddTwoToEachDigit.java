@@ -1,7 +1,7 @@
 /*Write a program to display a number whose digits are 2 
 greater than the corresponding digits of the 4 digit number taken.*/
 import java.util.*;
-class AddTwo
+class AddTwoToEachDigit
 {
 	public static void main(String ss[])
 	{
