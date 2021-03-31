@@ -1,5 +1,5 @@
 //check if both the conditions 'a < 50' and 'a < b' are true.
-class Condition1
+class ConditionCheckUsingAnd
 {
 	public static void main(String args[])
 	{
