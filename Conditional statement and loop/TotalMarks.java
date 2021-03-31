@@ -1,6 +1,6 @@
 //program to calculate total marks and percentage marks.
 import java.text.*;
-class Total
+class TotalMarks
 {
 	public static void main(String args[])
 	{
