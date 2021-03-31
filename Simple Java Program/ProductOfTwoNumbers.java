@@ -1,5 +1,5 @@
 import java.text.*;
-class Product
+class ProductOfTwoNumbers
 {
 	public static void main(String ss[])
 	{
