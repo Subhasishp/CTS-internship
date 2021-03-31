@@ -1,6 +1,6 @@
 //Convert Fahrenheit to Celsius
 import java.util.*;
-class Conversion
+class FahrenheitToCelsius
 {
 	public static void main(String ss[])
 	{
