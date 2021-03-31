@@ -1,5 +1,5 @@
 //check if atleast one of the condition 'a < 50' or 'a < b' is true.
-class Condition2
+class ConditionCheckUsingOr
 {
 	public static void main(String args[])
 	{
